@@ -35,11 +35,11 @@ function (actualAge){
 
 | Input | Output  |
 | ----- | ------  |
-| 1     |1,15,15  | 
-| 3     |3,28,29  | 
-| 5     |5,36,39  | 
-| 10    |10,56,64 | 
-| 20    |20,96,114|  
+| 1     | {humanYears: 1, catYears: 15, dogYears: 15}   | 
+| 3     | {humanYears: 3, catYears: 28, dogYears: 29}   | 
+| 5     | {humanYears: 5, catYears: 36, dogYears: 39}   | 
+| 10    | {humanYears: 10, catYears: 56, dogYears: 64}  | 
+| 20    | {humanYears: 20, catYears: 96, dogYears: 114} | 
 
 <table>
   <tr>
